@@ -18,10 +18,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="82dp"
-        android:layout_height="38dp"
-        android:text="Button"
-        tools:layout_editor_absoluteX="155dp"
-        tools:layout_editor_absoluteY="213dp" />
+        android:layout_width="170dp"
+        android:layout_height="52dp"
+        android:text="@string/greeting"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="199dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
